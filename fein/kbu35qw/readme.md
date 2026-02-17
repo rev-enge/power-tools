@@ -13,7 +13,8 @@ The electronics consist of 3 boards:
 The electronics are supplied directly from the life mains power with no insulation whatsoever!
 So be very careful when doing any repairs on it and always pull the main plug before opening it.
 
-When measuring on individual boards always use an insulation transformer so its not attached to the mains.
+When measuring on individual boards always use an insulation transformer so its not attached to the
+ mains neutral/PE and has a floating voltage. The voltages however are still lethal!
 
 # Identification of the boards
 
