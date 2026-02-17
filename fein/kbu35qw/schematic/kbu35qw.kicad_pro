@@ -324,6 +324,10 @@
     [
       "af2036ee-1c21-4837-b413-35555bebacc3",
       "power-input-magnet"
+    ],
+    [
+      "733d53d1-62ea-4167-bcac-5d0931ebb0aa",
+      "cpu"
     ]
   ],
   "text_variables": {}
