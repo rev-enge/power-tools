@@ -6,7 +6,7 @@
 
   (title_block
     (title "Magnet drill KBU35QW")
-    (date "2026-02-17")
+    (date "2026-02-27")
     (rev "0")
     (company "Fein")
     (comment 1 "30760217000")
@@ -2825,7 +2825,7 @@
   (symbol (lib_id "Device:R") (at 119.38 125.73 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5e850bbe-605f-44a7-98b3-f620e9e5a764)
-    (property "Reference" "R?" (id 0) (at 117.094 124.46 90)
+    (property "Reference" "R?" (id 0) (at 123.444 124.206 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5k11" (id 1) (at 119.38 123.19 90)
@@ -2837,7 +2837,7 @@
     (property "Datasheet" "~" (id 3) (at 119.38 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Marking" "69B" (id 4) (at 121.92 125.476 90))
+    (property "Marking" "69B" (id 4) (at 122.682 127.762 0))
     (pin "1" (uuid 61bfd453-a7aa-49aa-8409-892a7e59a03a))
     (pin "2" (uuid d6286dab-7e79-4adb-a5f7-d506d587bbb1))
   )
