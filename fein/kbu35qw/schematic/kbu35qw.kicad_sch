@@ -401,9 +401,6 @@
     (path "/733d53d1-62ea-4167-bcac-5d0931ebb0aa/ed1caab7-b502-4b10-abb1-322d5ac4cefe"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/af2036ee-1c21-4837-b413-35555bebacc3/ee9f481f-5ea3-477d-a110-d6dff6cb5491"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/733d53d1-62ea-4167-bcac-5d0931ebb0aa/f1ea3f42-6167-4273-a309-28aa58a358c3"
       (reference "#PWR?") (unit 1) (value "GNDD") (footprint "")
     )
@@ -498,7 +495,7 @@
       (reference "Q?") (unit 1) (value "Si2316 ?") (footprint "")
     )
     (path "/af2036ee-1c21-4837-b413-35555bebacc3/562f93bf-7559-4f18-8913-02ba9ac4aa71"
-      (reference "Q?") (unit 1) (value "??") (footprint "")
+      (reference "Q?") (unit 1) (value "DMN65D8L") (footprint "")
     )
     (path "/733d53d1-62ea-4167-bcac-5d0931ebb0aa/a9203f17-1072-4c6a-a232-d80d088f9443"
       (reference "Q?") (unit 1) (value "BSS84") (footprint "Package_TO_SOT_SMD:SOT-23")

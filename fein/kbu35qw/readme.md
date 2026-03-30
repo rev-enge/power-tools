@@ -24,6 +24,10 @@ These can be found on various exploded views on the internet and the associated 
 * Top speed control board (small board): exploded view #210: 30762560990
 * Motor regulation board: exploded view #160: 30762562990
 
+Picture of the main controller board:
+
+![main-controller](photo/main-controller.jpg)
+
 # Description
 
 The small board handles the buttons to set the motor speed and activating the magnet.
